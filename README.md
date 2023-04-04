@@ -55,7 +55,6 @@ sns.heatmap(df.corr())
 
 ![Screenshot from 2023-04-04 22-40-32](https://user-images.githubusercontent.com/114852180/229866691-ef1373c6-a66e-451a-8ebc-ba22abb25ee2.png)
 ![Screenshot from 2023-04-04 22-41-53](https://user-images.githubusercontent.com/114852180/229867072-05b452c2-d7b9-462e-820c-a54f680b578a.png)
-![Screenshot from 2023-04-04 22-43-08](https://user-im![Screenshot from 2023-04-04 22-43-08](https://user-ages.githubusercontent.com/114852180/229867794-d32092b0-a9dd-43a2-8667-6f186afecf2b.png)
 ![Screenshot from 2023-04-04 22-43-08](https://user-images.githubusercontent.com/114852180/229868374-650d6aa8-8b42-4f42-a098-e249f3138c10.png)
 ![Screenshot from 2023-04-04 22-50-56](https://user-images.githubusercontent.com/114852180/229869371-d6a6a8e3-f6fa-4428-9837-b89833e2dc34.png)
 ![Screenshot from 2023-04-04 22-52-09](https://user-images.githubusercontent.com/114852180/229869640-5032e76f-ae89-447d-82a6-4b46077d38db.png)
