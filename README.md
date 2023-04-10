@@ -1,20 +1,20 @@
 # Ex-04-Multivariate-Analysis
 
-#AIM:
+# AIM:
 write a python program to visualize the given data by analysing the multivariables in data
 
-#algorithm:
+# ALGORITHM:
 
-#step1:
+# step1:
 import the csv file using pandas package.
-#step2:
+# step2:
 store the data as dataframe in a variable.
-#step3:
+# step3:
 display the information of data sunch as datatypes,value counts,skewness
-#step4:
+# step4:
 display the data in the barplot,scatter plot and heatmap
 
-#code:
+# CODE:
 
 ```
 import pandas as pd 
@@ -51,7 +51,7 @@ plt.show()
 sns.heatmap(df.corr())
 ```
 
-##output:
+# OUTPUT:
 
 ![Screenshot from 2023-04-04 22-40-32](https://user-images.githubusercontent.com/114852180/229866691-ef1373c6-a66e-451a-8ebc-ba22abb25ee2.png)
 ![Screenshot from 2023-04-04 22-41-53](https://user-images.githubusercontent.com/114852180/229867072-05b452c2-d7b9-462e-820c-a54f680b578a.png)
@@ -61,6 +61,6 @@ sns.heatmap(df.corr())
 ![Screenshot from 2023-04-04 22-54-38](https://user-images.githubusercontent.com/114852180/229872246-8c82960f-b50f-48fe-9a01-273ff98786a6.png)
 ![Screenshot from 2023-04-04 22-58-48](https://user-images.githubusercontent.com/114852180/229872323-1738e2b3-578e-449b-a553-ff2277109d7d.png)
 
-##RESULT:
+# RESULT:
 
 thus the experiment executed sucessfully.
